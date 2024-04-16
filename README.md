@@ -6,6 +6,7 @@
 ## New Title
 - Some changes to test
 - Add text
+- Add footer
 
 ## If you don't use **Typescript**
 1. Rename `.tsx` files to `.jsx`
